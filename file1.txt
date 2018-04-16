@@ -1,1 +1,4 @@
 ## this is my first gitHub file 
+
+My name is Noor Amro 
+I'm Studying information technology
